@@ -1,2 +1,3 @@
 interview code program name
 1. find the vowel in the given sentence
+   logic if(words==aeiou){}
